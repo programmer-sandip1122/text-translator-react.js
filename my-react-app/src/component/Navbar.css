@@ -1,0 +1,61 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+
+.navbar {
+    height: 5vh;
+    width: 100%;
+    background-color: black;
+    color: white;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+
+}
+
+.logo {
+    width: 15%;
+}
+
+.main {
+    width: 30%;
+
+
+}
+
+.main ul li {
+    display: inline;
+    margin-right: 3rem;
+}
+
+li:hover {
+    text-decoration: underline;
+    text-decoration-color: rgb(10, 51, 238);
+    text-decoration-thickness: 5px;
+
+}
+
+.searchbar {
+    width: 25%;
+    margin-left: 2rem;
+}
+
+#searchbar {
+    width: 60%;
+    height: 1.5rem;
+    border: 1px solid white;
+    border-radius: 0.5rem;
+    margin-top: 0.2rem;}
+
+    .loginbar {
+        width: 25%;
+        text-align: right;
+
+
+    }
