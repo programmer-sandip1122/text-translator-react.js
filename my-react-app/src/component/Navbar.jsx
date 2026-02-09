@@ -13,7 +13,7 @@ export default function Navbar() {
             <ul>
               <li>Home</li>
               <li>Blog</li>
-              <li>About</li>
+             <Link to="/about">About</Link>
               <li>Contact</li>
             </ul>
           </div>

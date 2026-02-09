@@ -44,6 +44,7 @@ li:hover {
 .searchbar {
     width: 25%;
     margin-left: 2rem;
+    
 }
 
 #searchbar {
@@ -51,7 +52,9 @@ li:hover {
     height: 1.5rem;
     border: 1px solid white;
     border-radius: 0.5rem;
-    margin-top: 0.2rem;}
+    margin-top: 0.2rem;
+}
+
 
     .loginbar {
         width: 25%;
